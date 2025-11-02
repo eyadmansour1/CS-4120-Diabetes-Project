@@ -1,8 +1,7 @@
-# Data Notes
+# Diabetes Dataset
 
-We use the **Diabetes dataset** from scikit-learn (built-in).
+This project uses the **scikit-learn Diabetes dataset**, which can be loaded directly via:
 
-No raw dataset files need to be committed. It loads directly via:
 ```python
-from sklearn import datasets
-datasets.load_diabetes()
+from sklearn.datasets import load_diabetes
+data = load_diabetes(as_frame=True)
