@@ -16,4 +16,15 @@ It satisfies the Week 8 Midpoint requirements:
 ---
 
 ## 📁 Repository Structure
+cs4120-Diabetes-Project/
+│
+├── notebooks/
+│ └── Diabetes_Midpoint_Submission.ipynb
+│
+├── mlruns/ # MLflow run artifacts (auto-generated)
+│ └── README.md
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
 
