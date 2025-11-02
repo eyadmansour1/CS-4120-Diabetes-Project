@@ -1,3 +1,8 @@
+"""
+utils.py
+Utility functions shared across modules.
+"""
+
 import numpy as np
 import random
 
