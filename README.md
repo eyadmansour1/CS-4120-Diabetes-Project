@@ -1,8 +1,19 @@
-# CS-4120 Diabetes Project
+# CS-4120 Midpoint Project – Group Diabetes
 
-This repo contains code for our CS-4120 course project on the **Diabetes dataset** (scikit-learn/UCI).
+## 🧠 Overview
+This project analyzes the **Diabetes dataset** from scikit-learn for both **regression** and **classification** tasks.
 
-## Setup
-Clone the repo and install dependencies:
-```bash
-pip install -r requirements.txt
+- **Regression:** Predict disease progression (continuous target)
+- **Classification:** Predict whether progression is above/below median (derived binary label)
+
+It satisfies the Week 8 Midpoint requirements:
+- Exactly **4 plots** and **2 tables**
+- At least **2 classical models per task**
+- MLflow tracking enabled
+- Fixed random seed = 42
+- Includes Neural Network plan for final phase
+
+---
+
+## 📁 Repository Structure
+
