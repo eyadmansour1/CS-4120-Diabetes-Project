@@ -1,5 +1,22 @@
+# Python
 __pycache__/
-*.pkl
-*.csv
-mlruns/
-models/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Virtual environment
+cs4120-env/
+venv/
+.env/
+
+# MLflow artifacts (large logs)
+mlruns/.trash/
+mlruns/*/artifacts/
+
+# OS files
+.DS_Store
+Thumbs.db
