@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/Eyad%20Mansour/CS-4120-Diabetes-Project/mlruns/131784054886097412/models/m-aef5d53b64f74fd4b7545034148fcd41/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.14.0
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.9.1+cpu
+mlflow_version: 3.6.0
+model_id: m-aef5d53b64f74fd4b7545034148fcd41
+model_size_bytes: 27225
+model_uuid: m-aef5d53b64f74fd4b7545034148fcd41
+prompts: null
+run_id: 6753e7c5a1c74174a6abe0c5ebf00513
+utc_time_created: '2025-11-29 15:28:00.262399'

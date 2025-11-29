@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Eyad%20Mansour/CS-4120-Diabetes-Project/mlruns/881141849343717201/models/m-a287ace40402464d9d071a9e68c6c456/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-a287ace40402464d9d071a9e68c6c456
+model_size_bytes: 758
+model_uuid: m-a287ace40402464d9d071a9e68c6c456
+prompts: null
+run_id: 13fc18ab3ea94333a60e321726996f91
+utc_time_created: '2025-11-29 16:12:52.657604'

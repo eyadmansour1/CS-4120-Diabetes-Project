@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Eyad%20Mansour/CS-4120-Diabetes-Project/mlruns/650948193833790189/8ef053adfb3e45a9b39f89a24b27b650/artifacts
+end_time: 1764429884616
+entry_point_name: ''
+experiment_id: '650948193833790189'
+lifecycle_stage: active
+run_id: 8ef053adfb3e45a9b39f89a24b27b650
+run_name: baseline_clf_DecisionTreeClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764429879627
+status: 3
+tags: []
+user_id: Eyad Mansour

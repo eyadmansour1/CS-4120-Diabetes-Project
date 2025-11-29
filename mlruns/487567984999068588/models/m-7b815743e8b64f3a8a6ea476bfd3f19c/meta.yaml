@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Eyad%20Mansour/CS-4120-Diabetes-Project/mlruns/487567984999068588/models/m-7b815743e8b64f3a8a6ea476bfd3f19c/artifacts
+creation_timestamp: 1764432769157
+experiment_id: '487567984999068588'
+last_updated_timestamp: 1764432774395
+model_id: m-7b815743e8b64f3a8a6ea476bfd3f19c
+model_type: null
+name: model
+source_run_id: d3716e3b36454eafa60899eb97dde6d9
+status: 2
+status_message: null

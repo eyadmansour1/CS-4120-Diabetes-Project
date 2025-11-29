@@ -1,0 +1,5 @@
+Model,Split,Accuracy,F1_macro
+LogisticRegression,val,0.75,0.7498708010335917
+LogisticRegression,test,0.7752808988764045,0.7752525252525253
+DecisionTreeClassifier,val,0.7613636363636364,0.7613328167376985
+DecisionTreeClassifier,test,0.6404494382022472,0.6400404448938322

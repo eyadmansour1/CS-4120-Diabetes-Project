@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Eyad%20Mansour/CS-4120-Diabetes-Project/mlruns/650948193833790189/70f6c2fe73c74019811b38c79a18f3b5/artifacts
+end_time: 1764392984994
+entry_point_name: ''
+experiment_id: '650948193833790189'
+lifecycle_stage: active
+run_id: 70f6c2fe73c74019811b38c79a18f3b5
+run_name: baseline_reg_DecisionTreeRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764392974456
+status: 3
+tags: []
+user_id: Eyad Mansour

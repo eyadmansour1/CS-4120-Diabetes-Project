@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Eyad%20Mansour/CS-4120-Diabetes-Project/mlruns/881141849343717201/bd6c9a0cd3f94bdc9764b67ed3fdf6a9/artifacts
+end_time: 1764435785814
+entry_point_name: ''
+experiment_id: '881141849343717201'
+lifecycle_stage: active
+run_id: bd6c9a0cd3f94bdc9764b67ed3fdf6a9
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764435779469
+status: 3
+tags: []
+user_id: Eyad Mansour
